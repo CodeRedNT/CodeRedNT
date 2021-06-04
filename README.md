@@ -3,7 +3,7 @@
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 👨‍💻 About Me
+<!-- ## 👨‍💻 About Me -->
 
 <center>
 <table>
@@ -13,7 +13,7 @@
 </table>
 </center>
 
-## 🛠️ Languages
+<!-- ## 🛠️ Languages -->
 
 
 <!-- ![delphi](https://img.shields.io/badge/delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white) -->
