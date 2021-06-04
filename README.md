@@ -2,6 +2,8 @@
 ![kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![gnu-Bash](https://img.shields.io/badge/gnu-Bash-4EAA25?style=for-the-badge&logo=gnu-Bash&logoColor=white)
+
 
 <!-- ## 👨‍💻 About Me -->
 
