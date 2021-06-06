@@ -4,7 +4,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![gnu-Bash](https://img.shields.io/badge/gnu-Bash-4EAA25?style=for-the-badge&logo=gnu-Bash&logoColor=white)
 
-
+### Hi there 👋
 <!-- ## 👨‍💻 About Me -->
 
 <center>
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Hi there 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderednt&hide=contribs,prs)
 -->
